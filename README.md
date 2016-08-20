@@ -1,3 +1,3 @@
 easyfancy.github.com
 
-test github pages
+test 
